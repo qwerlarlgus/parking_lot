@@ -10,4 +10,4 @@ Object Detection: parking_lot
 1. https://github.com/fabiocarrara/deep-parking
 2. https://www.kaggle.com/ultralytics/yolov5-ultralytics - yolov5
 3. https://www.kaggle.com/blanderbuss/parking-lot-dataset
-
+4. https://github.com/ifzhang/FairMOT  - FairMOT
